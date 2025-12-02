@@ -1,7 +1,7 @@
 # Built-in Functions -Binary Conversion Using Built-in Functions in Python
 
 ### NAME : SANGAMITHRA B
-### REGISTER NUMBER : 212224060035
+### REGISTER NUMBER : 212224060267
 
 ## 🎯 Aim
 To write a Python program to convert the number **16** into its **binary representation** using built-in Python functions.
